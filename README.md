@@ -1,4 +1,4 @@
 # my-quiz
 
-#Tech Stack Used:
+# Tech Stack Used:
 Node.js
